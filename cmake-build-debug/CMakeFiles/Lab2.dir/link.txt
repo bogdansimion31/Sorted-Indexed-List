@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab2.dir/main.cpp.o CMakeFiles/Lab2.dir/ExtendedTest.cpp.o CMakeFiles/Lab2.dir/ListIterator.cpp.o CMakeFiles/Lab2.dir/ShortTest.cpp.o CMakeFiles/Lab2.dir/SortedIndexedList.cpp.o  -o Lab2 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sweethuman/CLionProjects/UBB-Y1-S2-DSA/Lab2/ListIterator.cpp
+ListIterator.h
+/home/sweethuman/CLionProjects/UBB-Y1-S2-DSA/Lab2/ListIterator.h
+SortedIndexedList.h
+/home/sweethuman/CLionProjects/UBB-Y1-S2-DSA/Lab2/SortedIndexedList.h
+iostream
+-
+
+/home/sweethuman/CLionProjects/UBB-Y1-S2-DSA/Lab2/ListIterator.h
+SortedIndexedList.h
+/home/sweethuman/CLionProjects/UBB-Y1-S2-DSA/Lab2/SortedIndexedList.h
+
+/home/sweethuman/CLionProjects/UBB-Y1-S2-DSA/Lab2/SortedIndexedList.h
+
